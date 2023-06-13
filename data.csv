@@ -1,0 +1,5 @@
+id,first_name,last_name,email,age
+1,John,Doe,johndoe@example.com,25
+2,Jane,Smith,,30
+3,Jim,,jim@example.com,28
+4,,Brown,jb@example.com,
